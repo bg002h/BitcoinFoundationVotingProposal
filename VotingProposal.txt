@@ -1,1 +1,24 @@
+V O T I N G   P R O P O S A L
+
+ELIGIBILITY
+	Nominees are not required to be members of the Foundation, but it is expected that the nominee, if elected, will join as an individual member.  We specifically request that felony convictions do not disqualify a nominee.  While we remain concerned about the colorful history of fraudsters and criminals in the Bitcoin world, the group recognized that a blanket ban on nominees with felony convictions would exclude Roger Ver (who sold fireworks on eBay, whoop-dee-doo, http://www.justice.gov/criminal/cybercrime/press-releases/2002/verPlea.htm).  We do still wish a background check to be performed on the winning candidate and felony convictions to be disclosed by all nominees.
+
+NOMINATIONS
+	Anyone may nominate a candidate, not just members of the Foundation. Nominations should contain a proof of work and we approve of the snail mail method and the form made by Lindsay (https://bitcoinfoundation.org/forum/index.php?app=core&module=attach&section=attach&attach_id=14). We recognize that this will not prevent people from falsely representing their identity or address on the form, however, we feel this is sufficient. We are concerned that delivery of letters from some parts of the world may take 2-3 weeks; while a real, physical form will be required of all candidates who wish to be on the ballot, an emailed copy should be considered as received for the purposes of beginning campaigning.
+
+VOTING STYLE
+	If a sufficient number of nominations are received, we believe run off elections are best (for example, a modified version of exhaustive voting: http://en.wikipedia.org/wiki/Exhaustive_ballot).  It may be wise to use a different voting system for the early rounds and the final round, as below.
+
+VOTING SYSTEMS
+	We have three very good options to consider, each with certain advantages: Election Services Corporation, ConsiderIt.us and Helios Voting. 
+
+Election Services Corporation is a widely used service that has a proven track record (for example,  they handle voting for the ACM, per Gavin).  The trust advantage is not the only benefit.  Under this system, eligible voters will be notified via post-card that a vote is to be held and will be given a pin code required for voting.  This can help us reduce ballot stuffers and effectively disenfranchise those who joined the Foundation by supplying falsified information.  Ball-park $3,000 for this service, presumably per round of voting but this is unclear. This may make the best system for the final round of voting due to the inherent trust advantage.
+
+ConsiderIt.us (http://considerit.us) is a voting and campaigning platform that could greatly facilitate the process of voters getting to know the candidates.  Think Facebook crossed with a bulletin board. The system is in alpha but is free.  There is another clever advantage here in that the system can allow any one to cast a vote and to display the cumulative results in real time while keeping track of the valid votes from members.  This could increase participation with the greater Bitcoin community. This may make a wise choose for the early rounds of voting while candidates are trying to differentiate themselves and voters are trying to get to know the candidates.
+
+Helios voting is a free online service that makes clever use of encryption to allow users to verify their vote as counted correctly and to allow for auditing the entire election.  The system requires a simple comma separated value (CSV) file with userid/pseudonym, email address, name.  I tried it and found it very easy to do. No campaigning support. Probably the easiest to implement.
+
+CAMPAIGN SUPPORT
+	We feel it is in the interests of the foundation to provide some non-financial support for campaigning.  Suggestions include starting a stickied thread on the Foundation forums where a brief candidate bio and up to two links to candidate specific thread can be found.  The order of the candidates in the thread would be important as it would be somewhat similar to a ballot (see http://en.wikipedia.org/wiki/Donkey_vote).
+	Alternatively or in addition, the ConsiderIt.us system would make excellent campaign support.  
 
