@@ -11,7 +11,7 @@ NOMINATIONS
 	Anyone may nominate a candidate, not just members of the Foundation. Nominations should contain a proof of work and we approve of the snail mail method and the form made by Lindsay (https://bitcoinfoundation.org/forum/index.php?app=core&module=attach&section=attach&attach_id=14). We recognize that this will not prevent people from falsely representing their identity or address on the form, however, we feel this is sufficient. We are concerned that delivery of letters from some parts of the world may take 2-3 weeks; while a real, physical form will be required of all candidates who wish to be on the ballot, an emailed copy should be considered as received for the purposes of beginning campaigning.
 
 VOTING STYLE
-	If a sufficient number of nominations are received, we believe run off elections are best (for example, a modified version of exhaustive voting: http://en.wikipedia.org/wiki/Exhaustive_ballot).  It may be wise to use a different voting system for the early rounds and the final round, as below.
+	If a sufficient number of nominations are received, we believe run off elections are best (for example, a modified version of exhaustive voting: http://en.wikipedia.org/wiki/Exhaustive_ballot).  According to the timeline section below, we could accommodate 3 or possibly 4 rounds of voting; eliminating all but 8 candidates after the first round and subsequently eliminating ½ the candidates per round until a candidate secures a majority of votes is suggested. It may be wise to use a different voting system for the early rounds and the final round, as below.
 
 VOTING SYSTEMS
 	We have three very good options to consider, each with certain advantages: Election Services Corporation, ConsiderIt.us and Helios Voting. 
