@@ -24,7 +24,7 @@ Helios voting is a free online service that makes clever use of encryption to al
 
 CAMPAIGN SUPPORT
 	We feel it is in the interests of the foundation to provide some non-financial support for campaigning.  Suggestions include starting a stickied thread on the Foundation forums where a brief candidate bio and a few links to candidate specific threads/subreddits/websites/etc can be found.  The order of the candidates in the thread would be important as it would be somewhat similar to a ballot (see http://en.wikipedia.org/wiki/Donkey_vote).
-	Alternatively or in addition, the ConsiderIt.us system would make excellent campaign support.  
+	Alternatively or in addition, the ConsiderIt.us system would make excellent campaign support.
 	We feel that a moderated election thread on Bitcointalk.org would be helpful for engaging the broader Bitcoin community and discovering the best candidates.
 	A subreddit is also suggested on similar grounds.
 	The creation of moderated threads and subreddits would be done by individual members selected by consensus / non-objection to self appointment.
