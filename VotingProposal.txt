@@ -3,6 +3,10 @@ B I T C O I N   F O U N D A T I O N   V O T I N G   P R O P O S A L
 ELIGIBILITY
 	Nominees are not required to be members of the Foundation, but it is expected that the nominee, if elected, will join as an individual member.  We specifically request that felony convictions do not disqualify a nominee.  While we remain concerned about the colorful history of fraudsters and criminals in the Bitcoin world, the group recognized that a blanket ban on nominees with felony convictions would exclude Roger Ver (who sold fireworks on eBay, whoop-dee-doo, http://www.justice.gov/criminal/cybercrime/press-releases/2002/verPlea.htm).  We do still wish a background check to be performed on the winning candidate and felony convictions to be disclosed by all nominees.
 
+DESCRIPTION OF DUTIES
+	We request the board create a simple document describing the duties and expectations of board members.  Todd Erickson may have some useful documents to assist in this process (https://bitcoinfoundation.org/forum/index.php?/topic/205-voting-for-new-board-members/#entry2408).
+
+
 NOMINATIONS
 	Anyone may nominate a candidate, not just members of the Foundation. Nominations should contain a proof of work and we approve of the snail mail method and the form made by Lindsay (https://bitcoinfoundation.org/forum/index.php?app=core&module=attach&section=attach&attach_id=14). We recognize that this will not prevent people from falsely representing their identity or address on the form, however, we feel this is sufficient. We are concerned that delivery of letters from some parts of the world may take 2-3 weeks; while a real, physical form will be required of all candidates who wish to be on the ballot, an emailed copy should be considered as received for the purposes of beginning campaigning.
 
@@ -19,6 +23,19 @@ ConsiderIt.us (http://considerit.us) is a voting and campaigning platform that c
 Helios voting is a free online service that makes clever use of encryption to allow users to verify their vote as counted correctly and to allow for auditing the entire election.  The system requires a simple comma separated value (CSV) file with userid/pseudonym, email address, name.  I tried it and found it very easy to do. No campaigning support. Probably the easiest to implement.
 
 CAMPAIGN SUPPORT
-	We feel it is in the interests of the foundation to provide some non-financial support for campaigning.  Suggestions include starting a stickied thread on the Foundation forums where a brief candidate bio and up to two links to candidate specific thread can be found.  The order of the candidates in the thread would be important as it would be somewhat similar to a ballot (see http://en.wikipedia.org/wiki/Donkey_vote).
+	We feel it is in the interests of the foundation to provide some non-financial support for campaigning.  Suggestions include starting a stickied thread on the Foundation forums where a brief candidate bio and a few links to candidate specific threads/subreddits/websites/etc can be found.  The order of the candidates in the thread would be important as it would be somewhat similar to a ballot (see http://en.wikipedia.org/wiki/Donkey_vote).
 	Alternatively or in addition, the ConsiderIt.us system would make excellent campaign support.  
+	We feel that a moderated election thread on Bitcointalk.org would be helpful for engaging the broader Bitcoin community and discovering the best candidates.
+	A subreddit is also suggested on similar grounds.
+	The creation of moderated threads and subreddits would be done by individual members selected by consensus / non-objection to self appointment.
+
+BALLOT STUFFING PREVENTION
+	We recognize that the low cost of membership may entice a candidate or candidate supports to effectively purchase votes via the creation of sock puppet accounts.  To prevent this, we believe there should be a date after which new members may not vote in the election.  See timeline below.
+
+ELECTION TIMELINE
+	These dates were somewhat haphazardly selected and no objection was found on our review.
+	Nominating Deadline: 01 August
+	Voting for Round #1: 01 September
+	Voting Round Duration: 1 week
+	Ballot Stuffing Prevention: Must register as a Foundation member by 8/23 to vote
 
