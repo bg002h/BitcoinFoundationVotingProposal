@@ -23,14 +23,14 @@ ConsiderIt.us (http://considerit.us) is a voting and campaigning platform that c
 Helios voting is a free online service that makes clever use of encryption to allow users to verify their vote as counted correctly and to allow for auditing the entire election.  The system requires a simple comma separated value (CSV) file with userid/pseudonym, email address, name.  I tried it and found it very easy to do. No campaigning support. Probably the easiest to implement.
 
 CAMPAIGN SUPPORT
-	We feel it is in the interests of the foundation to provide some non-financial support for campaigning.  Suggestions include starting a stickied thread on the Foundation forums where a brief candidate bio and a few links to candidate specific threads/subreddits/websites/etc can be found.  The order of the candidates in the thread would be important as it would be somewhat similar to a ballot (see http://en.wikipedia.org/wiki/Donkey_vote).
+	We feel it is in the interests of the Foundation to provide some non-financial support for campaigning.  Suggestions include starting a stickied thread on the Foundation forums where a brief candidate bio and a few links to candidate specific threads/subreddits/websites/etc can be found.  The order of the candidates in the thread would be important as it would be somewhat similar to a ballot (see http://en.wikipedia.org/wiki/Donkey_vote).
 	Alternatively or in addition, the ConsiderIt.us system would make excellent campaign support.
 	We feel that a moderated election thread on Bitcointalk.org would be helpful for engaging the broader Bitcoin community and discovering the best candidates.
 	A subreddit is also suggested on similar grounds.
 	The creation of moderated threads and subreddits would be done by individual members selected by consensus / non-objection to self appointment.
 
 BALLOT STUFFING PREVENTION
-	We recognize that the low cost of membership may entice a candidate or candidate supports to effectively purchase votes via the creation of sock puppet accounts.  To prevent this, we believe there should be a date after which new members may not vote in the election.  See timeline below.
+	We recognize that the low cost of membership may entice a candidate or candidate supporters to effectively purchase votes via the creation of sock puppet accounts.  To prevent this, we believe there should be a date after which new members may not vote in the election.  See timeline below.
 
 ELECTION TIMELINE
 	These dates were somewhat haphazardly selected and no objection was found on our review.
@@ -38,4 +38,9 @@ ELECTION TIMELINE
 	Voting for Round #1: 01 September
 	Voting Round Duration: 1 week
 	Ballot Stuffing Prevention: Must register as a Foundation member by 8/23 to vote
+
+
+
+
+We respectfully submit this proposal to the board and offer thank our board members for their service.
 
